@@ -21,3 +21,7 @@
 * [Scratch](https://scratch.mit.edu/)
 * [CodeCombat](https://codecombat.com)
 * [Construct2](https://www.scirra.com/construct2)
+
+## Iniciativas
+
+* [https://www.womenupgames.com/](https://www.womenupgames.com/)
